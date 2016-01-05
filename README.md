@@ -2,22 +2,6 @@
 =============
 Mikes Area
 
-Ok this is a story all about how, Mike's github got offa that ground.
+This is my sample area.
 
-It's a happy tale that you all can agree will show that his skills are up to the T.
-
-OK - trying something new on the zoom-readme-test branch
-
-
-More Changes
-
-Test
-
-
-Test
-
-Help me MikeWyattOTF you're my only hope
-
-And this is a zoom-two-readme-test branch
-
-Episode 01BcD1920  who knows what OTF really means ;-)
+To only be used when OTF, whatever that means
